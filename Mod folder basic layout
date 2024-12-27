@@ -1,0 +1,28 @@
+MyRimWorldMod/
+│
+├── About/
+│   └── About.xml
+│
+├── Defs/
+│   ├── ThingDefs/
+│   │   └── CustomWeapons.xml
+│   ├── RecipeDefs/
+│   │   └── CustomRecipes.xml
+│   └── PawnDefs/
+│       └── CustomPawns.xml
+│
+├── Textures/
+│   └── CustomTextures/
+│       └── WeaponTexture.png
+│
+├── Sounds/ (Optional)
+│   └── WeaponSound.ogg
+│
+├── Languages/ (Optional)
+│   └── en-US.xml
+│
+├── Patches/ (Optional)
+│   └── PatchForCore.xml
+│
+└── Assemblies/ (Optional) (Custom DLL when you start making own code)
+    └── MyMod.dll
