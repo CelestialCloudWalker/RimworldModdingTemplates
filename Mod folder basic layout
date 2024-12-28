@@ -3,7 +3,8 @@ MyRimWorldMod/
 ├── About/
 │   └── About.xml
 │
-├── Defs/
+├── 1.5
+        Defs/
 │   ├── ThingDefs/
 │   │   └── CustomWeapons.xml
 │   ├── RecipeDefs/
